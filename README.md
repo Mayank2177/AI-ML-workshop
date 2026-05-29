@@ -1,6 +1,6 @@
 # Basics of AI/ML: A Hands-on Workshop
 
-This repository contains materials and notes from the "Basics of AI/ML: A Hands-on Workshop," presented by Mayank Kumar for Google Developer Groups On Campus at the Institute of Engineering & Management [1, 2].
+This repository contains materials and notes from the "Basics of AI/ML: A Hands-on Workshop".
 
 ## 🎯 Workshop Goals
 * Demystify AI and ML concepts in a beginner-friendly manner [1].
