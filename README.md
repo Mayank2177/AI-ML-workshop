@@ -43,6 +43,8 @@ This repository contains materials and notes from the "Basics of AI/ML: A Hands-
 * Machine learning techniques that aggregate multiple models to produce better predictions, lower variance, and reduce noise [16].
 * **Random Forest:** Combines multiple decision trees, using majority voting for classification and averaging for regression [16, 17].
 <img width="1251" height="675" alt="download" src="https://github.com/user-attachments/assets/8baf7c9f-4208-44bf-97c9-2510b3c810fc" />
+
+
 ## ⚖️ The Bias-Variance Tradeoff
 * The optimization process aims to balance model simplicity and complexity: *Total Error = Bias² + Variance + Irreducible Error* [21].
 * **Underfitting (High Bias, Low Variance):** Errors are consistently high due to overly simplistic models or insufficient training [22]. Overcome with more complex models or better feature engineering [22].
