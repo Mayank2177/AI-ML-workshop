@@ -42,7 +42,7 @@ This repository contains materials and notes from the "Basics of AI/ML: A Hands-
 ## 🌳 Ensemble Methods
 * Machine learning techniques that aggregate multiple models to produce better predictions, lower variance, and reduce noise [16].
 * **Random Forest:** Combines multiple decision trees, using majority voting for classification and averaging for regression [16, 17].
-<img width="1251" height="675" alt="download" src="https://github.com/user-attachments/assets/8baf7c9f-4208-44bf-97c9-2510b3c810fc" />
+<img width="1075" height="578" alt="cheat" src="https://github.com/user-attachments/assets/f663b5ce-50c4-4ac5-b2eb-313b12e82b1d" />
 
 
 ## ⚖️ The Bias-Variance Tradeoff
